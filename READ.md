@@ -18,7 +18,8 @@ The dataset is taken from Our World in Data and analyzed using Pandas and Matplo
 
 ## Dataset
 
-Dataset Source: Our World in Data COVID-19 Dataset
+Dataset Source:
+https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv
 
 File Used:
 
